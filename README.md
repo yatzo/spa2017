@@ -5,7 +5,7 @@
 - Rješenje se predaje pull requestom na projekt https://github.com/racspa/spa2017
 - Rješenje predano nakon gornjeg roka neće se uvažiti
 - Naziv pull requesta treba biti u obliku *SPA-Z01-ImePrezime-ImeAsistenta* (npr *SPA-Z01-ImePrezime-dbele* ili *SPA-Z01-ImePrezime-mzagar*)
- 
+
 ## I2: 3 boda
 ### Uvod
 Igra života je igra za 0 igrača koju je osmislio britanski matematičar John Horton Conwaya 1970:
@@ -25,8 +25,8 @@ Za rješavanje zadatka će biti potrebno koristiti višedimenzionalna polja, tj.
 ### Koraci za kreiranje pull requesta
 - kreirajte github account
 - ulogirajte se na github
-- otvorili url projekta https://github.com/racspa/spa2017 i kreirajte kopiju na svom github racunu klikom na gumb 'Fork' 
+- otvorite url projekta https://github.com/racspa/spa2017 i kreirajte kopiju na svom github racunu klikom na gumb 'Fork' 
 - rijesite zadatak i push-ajte promjene u svoj spa2017 projekt repozitorij (mozete commit-ati i push-ati koliko promjena god zelite)
 - kada ste rijesili zadatak predajte ga kreiranjem pull requesta sa svog projekt natrag u projekt racspa/spa2017
 - naziv pull requesta zadajte prema gore navedenim uputama
-- dodatne upute za kreiranje pull requesta: https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+- upute za kreiranje pull requesta iz kreiranog forka: https://help.github.com/articles/creating-a-pull-request-from-a-fork/
